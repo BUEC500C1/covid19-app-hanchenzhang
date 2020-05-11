@@ -26,3 +26,4 @@ The Result of helloWorld:
 ------
 ![helloworld](https://github.com/BUEC500C1/covid19-app-hanchenzhang/blob/step1%2C2-Environment-set-up-and-helloWorld/helloworld.png)
 
+**There are file called android, node and ios that generated when the project get created through the cmd. They are not uplaoded here since not necessary. Only the App.js is critical**
