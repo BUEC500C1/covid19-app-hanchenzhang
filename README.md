@@ -1,5 +1,6 @@
-covid19 app by hanchen zhang
-
+# covid19 app by hanchen zhang
+------
+## Step1: Set Up React Native
 Originally, the Environment Setup should follow the instruction on [link:](https://reactnative.dev/docs/environment-setup)
 But for Chinese software developer, some instructions are different from what the previous link has. All details are shown [here:](https://reactnative.cn/docs/getting-started), with several noticement below.
 
@@ -16,5 +17,10 @@ $ brew update
 ```
 3. For installing the yarn that could substitute, add the sudo prefix for access approvement.
 4. For further access blocked by the system, type ``sudo spctl --master-disable ``
+
+Result on Android Device:
+------
+
+
 
 
