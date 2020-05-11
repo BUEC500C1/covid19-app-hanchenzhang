@@ -20,7 +20,7 @@ $ brew update
 
 Result on Android Device:
 ------
-
+![cmd](https://github.com/BUEC500C1/covid19-app-hanchenzhang/blob/step1%2C2-Environment-set-up-and-helloWorld/cmd.png)
 
 
 
